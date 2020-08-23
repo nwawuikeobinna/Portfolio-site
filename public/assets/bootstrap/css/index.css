@@ -1,0 +1,122 @@
+html, body{
+    background: #eaebee;
+    margin: 0;
+    padding: 0;
+}
+.app-nav{
+    background: rgba(0, 0, 255, 0.801);
+}
+
+.icon-color{
+    background: #192a4d;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: white;
+    background-color: #20344a85;
+}
+.fb-icon-small img{
+    width: 30px;
+    height: 40px;
+}
+.navbar-light .navbar-nav .fb-icon-small:hover{
+  background: transparent;
+}
+.victory img{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+.fb-side-nav{
+padding: 13px;
+}
+.fb-side-nav ul a{
+   color: grey;
+   font-size: 13px;
+   text-decoration: none;
+    }
+.fb-side-nav ul{
+margin: 0;
+padding: 0;
+}
+.fb-side-nav ul li{
+list-style: none;
+padding: 6px;
+}
+.fb-side-nav img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.fb-side-nav ul li:hover{
+    background-color: white;
+    }
+    .fb-side-nav ul li:nth-child(2){
+        background-color:white;
+        margin-top: 3px;
+        margin-bottom: 5px;
+        }
+.card-body img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.post-action ul{
+
+}
+.post-action ul li{
+    list-style: none;
+    float: left;
+    margin-right: 10px;
+    background-color: #f5f5f7;
+    padding: 4px;
+    padding-bottom: 5px;
+    padding-top: 2px;
+    border-radius: 10px;
+}
+.post-action ul li a{
+font-size: 12px;
+color: black;
+text-decoration: none;
+}
+.post-action img{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.story-container{
+    min-height: 200px;
+    width: 100%;
+    background-color:#dddd;
+    border-radius: 10px;
+}
+.story-container img{
+    min-height: 200px;
+    width: 100%;
+    background-color:#dddd;
+    border-radius: 10px;
+}
+.loop img{
+    min-height: 200px;
+    width: 100%;
+    background-color:#dddd;
+    border-radius: 2px;
+}
+a{
+    cursor: pointer;
+}
+.dropdown-toggle, button{
+    width: 20px;
+}
+.rounded-circle{
+    cursor: pointer;
+}
+/* .story-mode img{
+position: absolute;
+height: 50px;
+top: 10px;
+width: 50px;
+border-radius: 50%;
+} */
